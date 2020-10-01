@@ -11,6 +11,6 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" 
-       style="margin-left:10px" 
+       style="margin-left:50px" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&layout=compact&theme=react" />
 </a>
