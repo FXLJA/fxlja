@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FXLJA&&show_icons=true&theme=react">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&&show_icons=true&layout=compact&theme=react">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&&show_icons=true&layout=compact&theme=react">
