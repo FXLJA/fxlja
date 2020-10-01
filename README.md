@@ -5,5 +5,9 @@
 - 🤔 I’m looking for help with existensial crisis
 - ⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FXLJA&&show_icons=true&theme=react">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&&show_icons=true&layout=compact&theme=react">
+<a href="https://github.com/FXLJA/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FXLJA&&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/FXLJA/top_langs">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&layout=compact" />
+</a>
