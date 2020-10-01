@@ -6,8 +6,11 @@
 - ⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility
 
 <a href="https://github.com/FXLJA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FXLJA&&show_icons=true&theme=react" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=FXLJA&&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&theme=react" />
+  <img align="center" 
+       style="margin-left:10px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&layout=compact&theme=react" />
 </a>
