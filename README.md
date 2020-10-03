@@ -1,4 +1,4 @@
-### Blessing of the moon upon your journey
+### 🧿 Blessing of the moon upon your journey 🧿
 
 - 🔭 I’m currently working on multiple college projects for the sake of a 3.5+ GPA
 - 🌱 I’m currently learning Dart like a madman
