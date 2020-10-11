@@ -10,6 +10,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FXLJA&include_all_commits=true&show_icons=true&count_private=true&theme=react">
   </a>
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&layout=compact&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&langs_count=8&layout=compact&theme=react">
   </a>	
 </div>
