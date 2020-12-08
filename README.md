@@ -1,9 +1,9 @@
 ### 🧿 Blessing of the moon upon your journey 🧿
 
-- 🔭 I’m currently working on multiple college projects for the sake of a 3.5+ GPA
-- 🌱 I’m currently learning Flutter like a madman
-- 🤔 I’m looking for help with sleep deprivation and increasing grudge towards senile lecturers
-- ⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility
+🔭 I’m currently working on multiple college projects for the sake of a 3.5+ GPA
+🌱 I’m currently learning Flutter like a madman
+🤔 I’m looking for help with sleep deprivation and increasing grudge towards senile lecturers
+⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility
 
 <div>
   <a href="">
