@@ -1,6 +1,6 @@
 ### 🧿 Blessing of the moon upon your journey 🧿
 
-🔭 I’m currently working on multiple college projects for the sake of a 3.5+ GPA
+🔭 I’m currently trying too hard to maintain a 3.5+ GPA
 
 🌱 I’m currently learning Flutter like a madman
 
