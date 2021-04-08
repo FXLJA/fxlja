@@ -2,11 +2,12 @@
 
 🔭 I’m currently trying too hard to maintain a 3.5+ GPA
 
-🌱 I’m currently learning Flutter like a madman
+🌱 I’m currently bearing an unhealthy grudge on Flask and Python programming in general
 
 🤔 I’m looking for help with sleep deprivation and increasing grudge towards senile lecturers
 
-⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility
+⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility.
+
 
 <div>
   <a href="">
