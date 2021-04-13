@@ -17,5 +17,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&langs_count=8&exclude_repo=hrd-biemers&hide=batchfile,shaderlab,hlsl&layout=compact&theme=react">
   </a>	
 </div>
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FXLJA&repo=Katalis)]
