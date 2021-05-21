@@ -2,11 +2,11 @@
 
 🔭 I’m currently trying too hard to maintain a 3.5+ GPA
 
-🌱 I’m currently bearing an unhealthy grudge on Flask and Python programming in general
+🌱 I’m currently bearing an unhealthy grudge on frameworks and programming in general. Flask takes the top spot.
 
 🤔 I’m looking for help with sleep deprivation and increasing grudge towards senile lecturers
 
-⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility.
+⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility. It always, ALWAYS finds a way to mess things up.
 
 
 <div>
