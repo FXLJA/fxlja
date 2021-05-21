@@ -14,8 +14,8 @@
 ### Ring my doorbell:
 <div>
   <img align="left" alt="Discord Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/>
-  <img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   <img align="left" alt="Steam Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/steam.png"/>
+  <img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   
   <br>
   <br>
