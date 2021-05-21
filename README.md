@@ -1,4 +1,5 @@
 ### 🧿 Blessing of the moon upon your journey 🧿
+<hr>
 
 🔭 I’m currently trying too hard to maintain a 3.5+ GPA
 
