@@ -7,7 +7,7 @@
 
 🤔 I’m looking for help with sleep deprivation and increasing grudge towards senile lecturers
 
-⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility. It always, ALWAYS finds a way to mess things up.
+⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility. It always, ALWAYS finds a way to mess things up for me.
 
 <hr>
 
