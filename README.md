@@ -17,6 +17,10 @@
     <img align="left" alt="LinkedIn Icon" width="48px" src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>
   </a>
   
+  <a href="mailto:ja669543@gmail.com">
+    <img align="left" alt="Email Icon" width="48px" src="https://img.icons8.com/fluent/48/4a90e2/email.png"/>
+  </a>
+  
   <a href="https://discord.com/users/4106"> 
     <img align="left" alt="Discord Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/>
   </a>
