@@ -25,6 +25,9 @@
     <img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   </a>
   
+  <a href="https://www.linkedin.com/in/jason-a-363305116/">
+    <img align="left" alt="LinkedIn Icon" width="48px" src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>
+  </a>
   <br>
   <br>
   <br>
