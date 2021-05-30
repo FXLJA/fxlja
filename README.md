@@ -18,7 +18,7 @@
   </a>
   
   <a href="mailto:ja669543@gmail.com">
-    <img align="left" alt="Email Icon" width="48px" src="https://img.icons8.com/fluent/48/4a90e2/email.png"/>
+    <img align="left" alt="Email Icon" width="48px" src="https://img.icons8.com/ios-filled/50/4a90e2/email.png"/>
   </a>
   
   <a href="https://discord.com/users/4106"> 
