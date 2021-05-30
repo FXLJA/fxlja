@@ -17,19 +17,19 @@
     <img align="left" alt="LinkedIn Icon" width="48px" src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>
   </a>
   
-  <a href="mailto:ja669543@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:ja669543@gmail.com">
     <img align="left" alt="Email Icon" width="48px" src="https://img.icons8.com/fluent/48/4a90e2/email.png"/>
   </a>
   
-  <a href="https://www.facebook.com/fxlja1411/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/fxlja1411/">
     <img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
   </a>
   
-  <a href="https://discord.com/users/4106" target="_blank" rel="noopener noreferrer"> 
+  <a href="https://discord.com/users/4106"> 
     <img align="left" alt="Discord Icon" width="48px" src="https://img.icons8.com/ios-filled/50/4a90e2/discord-logo.png"/>
   </a>
   
-  <a href="https://steamcommunity.com/id/fxlja1411/" target="_blank" rel="noopener noreferrer"> 
+  <a href="https://steamcommunity.com/id/fxlja1411/"> 
     <img align="left" alt="Steam Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/steam.png"/>
   </a>
   
