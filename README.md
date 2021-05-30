@@ -14,7 +14,7 @@
 ### Ring my doorbell:
 <div>
   <a href="https://www.linkedin.com/in/jason-a-363305116/" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="LinkedIn Icon" width="48px" src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>
+    <img align="left" alt="LinkedIn Icon" width="48px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png"/>
   </a>
   
   <a href="mailto:ja669543@gmail.com">
