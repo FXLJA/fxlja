@@ -34,7 +34,7 @@
   </a>
   
   <a href="https://steamcommunity.com/id/fxlja1411/"> 
-    <img align="left" alt="Steam Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/steam.png"/>
+    <img align="left" alt="Steam Icon" width="48px" src="https://img.icons8.com/ios-filled/50/4a90e2/steam-circled.png"/>
   </a>
   
   <br>
