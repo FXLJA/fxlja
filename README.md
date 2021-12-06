@@ -22,7 +22,7 @@
   </a>
   
   <a href="https://discord.com/users/4106"> 
-    <img align="left" alt="Discord Icon" width="48px" src="https://img.icons8.com/ios-filled/50/4a90e2/discord-logo.png"/>
+    <img align="left" alt="Discord Icon" width="48px" src="https://img.icons8.com/ios-filled/50/4a90e2/discord--v1.png"/>
   </a>
 
   <a href="http://line.me/ti/p/~gregetexe14">
