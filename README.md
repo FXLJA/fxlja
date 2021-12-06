@@ -45,9 +45,10 @@
 
 <div>
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=FXLJA&include_all_commits=true&show_icons=true&count_private=true&theme=react" width: 80%;>
+    <img src="https://github-readme-stats.vercel.app/api?username=FXLJA&include_all_commits=true&show_icons=true&count_private=true&theme=react" width: 100%;>
   </a>
+  
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&langs_count=8&exclude_repo=hrd-biemers&hide=batchfile,shaderlab,hlsl,glsl&layout=compact&theme=react" width: 80%;>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&langs_count=8&exclude_repo=hrd-biemers&hide=batchfile,shaderlab,hlsl,glsl&layout=compact&theme=react" width: 100%;>
   </a>	
 </div>
