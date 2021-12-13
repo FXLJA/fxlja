@@ -44,11 +44,14 @@
 </div>
 
 <div>
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=FXLJA&include_all_commits=true&show_icons=true&count_private=true&theme=react">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api?username=FXLJA&show_icons=true&include_all_commits=true&theme=react&hide_border=true" 
+         alt="FXLJA GitHub Stats" />
   </a>
-  
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&langs_count=8&exclude_repo=hrd-biemers&hide=batchfile,shaderlab,hlsl,glsl&layout=compact&theme=react">
-  </a>	
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXLJA&langs_count=8&exclude_repo=hrd-biemers&hide=batchfile,shaderlab,hlsl,glsl&layout=compact&theme=react&hide_border=true" />
+  </a>
 </div>
