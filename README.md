@@ -1,11 +1,11 @@
 ### 🧿 Blessing of the moon upon your journey 🧿
 <hr>
 
-🔭 I’m currently trying too hard to maintain a 3.5+ GPA
+🔭 I’m currently savoring the bliss oh having a 3.5+ cGPA
 
 🌱 I’m currently bearing an unhealthy grudge on frameworks and programming in general. Flask takes the top spot.
 
-🤔 I’m looking for help with sleep deprivation and increasing grudge towards senile lecturers
+🤔 I’m looking for help with sleep deprivation while having to adjust to a new workplace
 
 ⚡ Fun fact: I dislike using GitHub, even though I can appreciate its versatility. It always, ALWAYS finds a way to mess things up for me.
 
