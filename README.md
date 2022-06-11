@@ -1,7 +1,7 @@
 ### 🧿 Blessing of the moon upon your journey 🧿
 <hr>
 
-🔭 I’m currently savoring the bliss oh having a 3.5+ cGPA
+🔭 I’m currently savoring the bliss of having a 3.5+ cGPA
 
 🌱 I’m currently bearing an unhealthy grudge on frameworks and programming in general. Flask takes the top spot.
 
