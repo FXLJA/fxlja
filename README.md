@@ -14,27 +14,27 @@
 ### Ring my doorbell:
 <div>
   <a href="https://www.linkedin.com/in/jason-a-363305116/" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="LinkedIn Icon" width="48px" src="https://img.icons8.com/ios-filled/50/1520a6/linkedin.png"/>
+    <img align="left" alt="LinkedIn Icon" width="48px" src="https://img.icons8.com/ios-filled/50/2832c2/linkedin.png"/>
   </a>
   
   <a href="mailto:ja669543@gmail.com">
-    <img align="left" alt="Email Icon" width="48px" src="https://img.icons8.com/ios-filled/50/1520a6/email.png"/>
+    <img align="left" alt="Email Icon" width="48px" src="https://img.icons8.com/ios-filled/50/2832c2/email.png"/>
   </a>
   
   <a href="https://discord.com/users/4106"> 
-    <img align="left" alt="Discord Icon" width="48px" src="https://img.icons8.com/ios-filled/50/1520a6/discord--v1.png"/>
+    <img align="left" alt="Discord Icon" width="48px" src="https://img.icons8.com/ios-filled/50/2832c2/discord--v1.png"/>
   </a>
 
   <a href="http://line.me/ti/p/~gregetexe14">
-    <img align="left" alt="LINE Icon" width="48px" src="https://img.icons8.com/1520a6/ios-filled/line-me"/>
+    <img align="left" alt="LINE Icon" width="48px" src="https://img.icons8.com/2832c2/ios-filled/line-me"/>
   </a>
   
   <a href="https://www.facebook.com/fxlja1411/">
-    <img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/ios-filled/50/1520a6/facebook-new.png"/>
+    <img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/ios-filled/50/2832c2/facebook-new.png"/>
   </a>
   
   <a href="https://steamcommunity.com/id/fxlja1411/"> 
-    <img align="left" alt="Steam Icon" width="48px" src="https://img.icons8.com/ios-filled/50/1520a6/steam-circled.png"/>
+    <img align="left" alt="Steam Icon" width="48px" src="https://img.icons8.com/ios-filled/50/2832c2/steam-circled.png"/>
   </a>
   
   <br>
